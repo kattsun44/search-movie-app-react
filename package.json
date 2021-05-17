@@ -19,6 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://kattsun44.github.io/search-movie-app-react/",
   "eslintConfig": {
     "extends": [
       "react-app",
